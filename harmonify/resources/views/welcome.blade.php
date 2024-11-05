@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1 class="text-3xl font-bold underline">
-    Hello world!12313123
+    Hello world!
   </h1>
 </body>
 </html>
